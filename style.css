@@ -1,0 +1,34 @@
+.container{
+    
+
+    width: 100%;
+
+}
+.person{
+    padding: 10px;
+    height: 200px;
+}
+.bi {
+    display: inline-block;
+    vertical-align: -0.125em;
+    fill: currentcolor;
+}
+
+.hero{
+    background-color: #A6E3E9;
+    border-radius: 5px;
+
+}
+.navbar{
+    background-color: #A6E3E9;
+}
+div {
+    display: block;
+}
+.skills{
+    padding: 10px;
+    
+}
+p{
+    padding: 10px;
+}
